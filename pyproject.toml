@@ -1,6 +1,6 @@
 [project]
 name = "azcam-monitor"
-version = "25.0"
+version = "26.0"
 description = "Monitor app for azcam"
 license = { file = "LICENSE" }
 readme = "README.md"

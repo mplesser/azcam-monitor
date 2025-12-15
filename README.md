@@ -2,6 +2,7 @@
 
 azcam-monitor is a monitoring app for azzcam processes running on a computer.
 
+This package was previously included in the azam package but has been removed.
 ## Documentation
 
 See https://azcam.readthedocs.io.
